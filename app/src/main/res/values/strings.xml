@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Personal Expenses Tracker</string>
+    <string name="bottom_navigation_menu_expenses_screen">Расходы</string>
+    <string name="bottom_navigation_menu_statistics_screen">Статистика</string>
+    <string name="stat_screen_total_amount">Всего потрачено: %1$.2f\u00A0₽</string>
+    <string name="expense_item_amount">%1$.2f\u00A0₽</string>
 </resources>
